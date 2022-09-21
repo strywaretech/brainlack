@@ -40,7 +40,7 @@ In order to start using this lang, you must learn 2 things;
 * You must also learn the syntax for the language
 
 ## Installation <a name = "installation"></a>
-Add `<script type="text/javascript" src="https://bralanck-lang.paragonx.repl.co/compiler.js"></script>` after the first `<body>` tag
+Add `<script type="text/javascript" src="https://bralanck-lang.paramchosting.repl.co/compiler.js"></script>` after the first `<body>` tag
 
 ## 🎈 Usage <a name="usage"></a>
 
