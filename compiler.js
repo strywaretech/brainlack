@@ -1,0 +1,55 @@
+const debugMode = false;
+function bl_parse(bl) {
+  let step1 = bl;
+  var final = step1.replaceAll(',[[,', 'a');
+  final = final.replaceAll(',[],', 'b');
+  final = final.replaceAll(',][,', 'c');
+  final = final.replaceAll(',]],', 'd');
+  final = final.replaceAll(',[[[,', 'e');
+  final = final.replaceAll(',[]],', 'f');
+  final = final.replaceAll(',][[,', 'g');
+  final = final.replaceAll(',]][,', 'h');
+  final = final.replaceAll(',][],', 'i');
+  final = final.replaceAll(',[][,', 'j');
+  final = final.replaceAll(',]]],', 'k');
+  final = final.replaceAll(',[[[[,', 'l');
+  final = final.replaceAll(',[][],', 'm');
+  final = final.replaceAll(',][][,', 'n');
+  final = final.replaceAll(',[[]],', 'o');
+  final = final.replaceAll(',[][[,', 'p');
+  final = final.replaceAll(',][]],', 'q');
+  final = final.replaceAll(',]]]],', 'r');
+  final = final.replaceAll(',[[[],', 's');
+  final = final.replaceAll(',]][],', 't');
+  final = final.replaceAll(',[[][,', 'u');
+  final = final.replaceAll(',[[[],', 'v');
+  final = final.replaceAll(',[]][,', 'w');
+  final = final.replaceAll(',]][[,', 'x');
+  final = final.replaceAll(',[[[[[,', 'y');
+  final = final.replaceAll(',[][[],', 'z');
+  final = final.replaceAll(',[[][],', '1');
+  final = final.replaceAll(',[][][,', '2');
+  final = final.replaceAll(',[[][]][[,', '3');
+  final = final.replaceAll(',[[[[],', '4');
+  final = final.replaceAll(',[[][]][],', '5');
+  final = final.replaceAll(',[[]][],', '6');
+  final = final.replaceAll(',[[[]],', '7');
+  final = final.replaceAll(',[[[]]],', '8');
+  final = final.replaceAll(',[]][]],', '9');
+  final = final.replaceAll(',[[[]],', '0');
+  final = final.replaceAll(',[[][]],', '.');
+  final = final.replaceAll(',[[[]]]]],', '(');
+  final = final.replaceAll(',[[][]]],', ')');
+  final = final.replaceAll(',[[][[[],', '_');
+  final = final.replaceAll(',[[]][][,', ' ');
+  final = final.replaceAll(',[][][]][,', '+');
+  final = final.replaceAll(',[[]][][],', '-');
+  final = final.replaceAll(',]]][[[][,', '/');
+  final = final.replaceAll(',[][][]][]],', '"');
+  final = final.replaceAll(',[][][]][][,', "'");
+  final = final.replaceAll(',[][][]][[[[,', ';');
+  eval(final);
+  if (debugMode) {
+    console.log(final);
+  }
+}
