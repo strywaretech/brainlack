@@ -1,11 +1,12 @@
 function blparse(bl) {
   let step1 = bl;
-  var step2 = step1.replaceAll('|', '\n');
-  var final = step2.replaceAll('[[', 'a');
-  final = final.replaceAll('[]', 'b');
-  final = final.replaceAll(']]', 'c');
-  final = final.replaceAll('][', 'd');
-  final = final.replaceAll('][]', 'i');
+  var step2 = step1.replaceAll('|', ',');
+  var final = step2.replaceAll('[[,', 'a');
+  final = final.replaceAll(',[],', 'b');
+  final = final.replaceAll(',]],', 'c');
+  final = final.replaceAll(',][,', 'd');
+  final = final.replaceAll(',[[[,', 'e');
+  final = final.replaceAll(',[]],', 'f');
   document.write("<pre>\n" + final + "\n</pre>");
 }
 
