@@ -1,0 +1,19 @@
+language = "nodejs"
+run = "node index.js"
+
+[nix]
+channel = "stable-21_11"
+
+// yo wsg bro
+
+/ just letting u know i know next to nothing about node.js
+// i use frontend web javascript lol
+// oh, well what lang did u make "wavegrass"
+
+// i didnt even make it its just an idea
+// brb  
+// time to follow a tutorial
+
+// https://css-tricks.com/lets-create-a-tiny-programming-language/
+
+// how do you even parse your language idk
