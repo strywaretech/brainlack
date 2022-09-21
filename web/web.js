@@ -5,7 +5,7 @@
 
 // imma make an array for that brb lemme just make an example
 
-[][[|]]]]|][]|][][|][][|]][]|
+[][[|]]]]|][]|][][|][][|]][]|[[[]]]]]|]][|[[[
 
 const encoding = [
   "[[", // a
