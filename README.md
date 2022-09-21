@@ -30,7 +30,6 @@
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 Brainlack is a programming language consisting of using brackets as encoding for javascript.
@@ -55,8 +54,3 @@ Run `bl_parse('brainlack code goes here');` using JS
 - [@ahino6942](https://github.com/ahino6942) - The Docs
 
 See also the list of [contributors](https://github.com/brainlack/brainlack/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
