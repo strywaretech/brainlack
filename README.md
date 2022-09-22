@@ -26,7 +26,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Installation](#installation)
-- [Running your first program](#running)
+- [Learn BrainLack](https://brainlack.github.io/learn)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
