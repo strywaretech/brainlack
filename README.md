@@ -42,6 +42,8 @@ In order to start using this lang, you must learn 2 things;
 ## 💾 Installation <a name = "installation"></a>
 Add `<script type="text/javascript" src="https://brainlack-hosting.claytontdm.repl.co/compiler.js"></script>` after the first `<body>` tag
 
+or just head to the [interpreter](https://brainlack.github.io/interpreter)
+
 ## 🎈 Usage <a name="usage"></a>
 
 Run `bl_parse('brainlack code goes here');` using JS
