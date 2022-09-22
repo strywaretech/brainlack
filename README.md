@@ -32,7 +32,7 @@
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
-Brainlack is a programming language consisting of using brackets as encoding for javascript.
+Brainlack is an esolang consisting of using brackets as encoding for javascript.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 In order to start using this lang, you must learn 2 things;
