@@ -8,10 +8,10 @@
 <div align="center">
 
 <div align="center" dir="auto">
-<p dir="auto"><a href="https://github.com/brainlack/brainlack.github.io/tree/main"><img src="https://camo.githubusercontent.com/57912f2a2adcce8983823d6de33da48656f844aebc1619b2b15c553b4b2d842e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374617475732d6163746976652d737563636573732e737667" alt="Status" data-canonical-src="https://img.shields.io/badge/status-active-success.svg" style="max-width: 100%;"></a>
-<a href="https://github.com/brainlack/brainlack.github.io/issues"><img src="https://camo.githubusercontent.com/d8045eb04b17b11fdaabd3ffb2fe651921a9e47148c0b869a68de42ab980fc6c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f627261696e6c61636b2f627261696e6c61636b2e737667" alt="GitHub Issues" data-canonical-src="https://img.shields.io/github/issues/brainlack/brainlack.svg" style="max-width: 100%;"></a>
-<a href="https://github.com/brainlack/brainlack.github.io/pulls"><img src="https://camo.githubusercontent.com/b50a1404d336ca8a389a7390982f2c835f7c7d79cb1be9b93d66379d7febe887/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f627261696e6c61636b2f627261696e6c61636b2e737667" alt="GitHub Pull Requests" data-canonical-src="https://img.shields.io/github/issues-pr/brainlack/brainlack.svg" style="max-width: 100%;"></a>
-<a href="https://github.com/brainlack/brainlack.github.io/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-red.svg" alt="License" data-canonical-src="https://img.shields.io/badge/license-Apache%202.0-red.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/strywaretech/brainlack.github.io/tree/main"><img src="https://camo.githubusercontent.com/57912f2a2adcce8983823d6de33da48656f844aebc1619b2b15c553b4b2d842e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374617475732d6163746976652d737563636573732e737667" alt="Status" data-canonical-src="https://img.shields.io/badge/status-active-success.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/strywaretech/brainlack/issues"><img src="https://camo.githubusercontent.com/d8045eb04b17b11fdaabd3ffb2fe651921a9e47148c0b869a68de42ab980fc6c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f627261696e6c61636b2f627261696e6c61636b2e737667" alt="GitHub Issues" data-canonical-src="https://img.shields.io/github/issues/brainlack/brainlack.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/strywaretech/brainlack/pulls"><img src="https://camo.githubusercontent.com/b50a1404d336ca8a389a7390982f2c835f7c7d79cb1be9b93d66379d7febe887/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f627261696e6c61636b2f627261696e6c61636b2e737667" alt="GitHub Pull Requests" data-canonical-src="https://img.shields.io/github/issues-pr/brainlack/brainlack.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/strywaretech/brainlack/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-red.svg" alt="License" data-canonical-src="https://img.shields.io/badge/license-Apache%202.0-red.svg" style="max-width: 100%;"></a></p>
 </div>
 
 </div>
@@ -26,7 +26,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Installation](#installation)
-- [Learn BrainLack](https://brainlack.github.io/learn)
+- [Learn BrainLack](https://strywaretech.github.io/learn-brainlack)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
@@ -42,7 +42,7 @@ In order to start using this lang, you must learn 2 things;
 ## 💾 Installation <a name = "installation"></a>
 Add `<script type="text/javascript" src="https://brainlack-hosting.claytontdm.repl.co/compiler.js"></script>` after the first `<body>` tag
 
-or just head to the [interpreter](https://brainlack.github.io/interpreter)
+or just head to the [interpreter](https://strywaretech.github.io/brainlack-interpreter)
 
 ## 🎈 Usage <a name="usage"></a>
 
