@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <script type="text/javascript" src="https://raw.githubusercontent.com/brainlack/brainlack/main/compiler.js"></script>
+  <script type="text/javascript" src="https://brainlack-hosting.claytontdm.repl.co/compiler.js"></script>
   <script type="text/javascript">
     bl_parse(',][,,[[]],,][][,,[[[],,[[]],,[[[[,,[[[,,[[][]],,[[[[,,[[]],,][[,,[[[]]]]],,[[][],,[[][]]],,[][][]][[[[,');
   </script>
