@@ -32,7 +32,7 @@
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
-Brainlack is an esolang consisting of using brackets as encoding for javascript.
+Brainlack is an esolang consisting of using brackets as encoding for JavaScript.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 In order to start using this lang, you must learn 2 things;
@@ -42,7 +42,7 @@ In order to start using this lang, you must learn 2 things;
 ## 💾 Installation <a name = "installation"></a>
 Add `<script type="text/javascript" src="https://brainlack-hosting.claytontdm.repl.co/compiler.js"></script>` after the first `<body>` tag
 
-or just head to the [interpreter](https://strywaretech.github.io/brainlack-interpreter)
+or just head to the [executor](https://brainlack-hosting.claytontdm.repl.co/)
 
 ## 🎈 Usage <a name="usage"></a>
 
